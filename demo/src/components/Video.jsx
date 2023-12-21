@@ -1,6 +1,6 @@
 import './Video.css';
 
-function Video({ title, channel, views, time }) {
+function Video({ title = "Video title", channel = "channel Name", views = "0", time = "0m" }) {
 
     return <>
         <div className='container'>
