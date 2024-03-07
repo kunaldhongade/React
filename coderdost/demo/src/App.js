@@ -16,7 +16,7 @@ let videos = [
     views: "10k",
     time: "1 years ago",
     channel: "React Dost",
-    verified: true,
+    verified: false,
   },
   {
     title: "Node Js tutorial",
